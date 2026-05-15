@@ -1,4 +1,6 @@
-# pyguiai is a Python + PyQt6 Chat Client + OpenAI API + Mistral AI
+# pyguiai
+
+**Python + PyQt6 Chat Client + OpenAI API + Mistral AI**
 
 A small training project demonstrating how to build a desktop
 chat interface using **Python**, **PyQt6**,
