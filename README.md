@@ -11,6 +11,15 @@ ideal for experimenting with GUI programming, streaming responses,
 and event‑driven architecture.
 
 ---
+## #Demo
+
+Running on Ubuntu 24.04 x86_64
+<br>
+<div style="text-align: center;">
+  <img src="pyguiai.gif" />
+</div>
+
+---
 
 ## #Python
 - Clean, modular engine (`core.py`)
