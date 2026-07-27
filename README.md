@@ -1,7 +1,5 @@
 # pyguiai
 
-**Python + PyQt6 Chat Client + OpenAI API + Mistral AI**
-
 A small training project demonstrating how to build a desktop
 chat interface using **Python**, **PyQt6**,
 and an **OpenAI‑compatible API**.
