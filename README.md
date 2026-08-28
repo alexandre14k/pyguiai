@@ -8,6 +8,8 @@ The application focuses on clarity, modularity, and learnability
 ideal for experimenting with GUI programming, streaming responses,
 and event‑driven architecture.
 
+![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=alexandre14k&repo=https://github.com/alexandre14k/pyguiai&label=Views&labelColor=%23555555&countColor=%23007EC6)
+
 ---
 ## #Demo
 
